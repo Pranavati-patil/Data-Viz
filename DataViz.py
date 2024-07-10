@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 
 # Load the data
-file_path = r"C:\Users\hp\Desktop\fdb\All_Attribute_Table.xlsx"
+file_path = r"All_Attribute_Table.xlsx"
 data = pd.read_excel(file_path)
 st.markdown("""
     <style>
