@@ -5,5 +5,5 @@ Data Visualization Dashboard
 Python 
   # Libraries : 
     * Altair - Data Visualization 
-    * Pandas - Dataframe Creation , instead of SQL : >
+    * Pandas - Dataframe Creation , instead of SQL :>
     * StreamLit - Web Hoisting 
